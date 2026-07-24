@@ -1,0 +1,26 @@
+SOURCE: Department of Registrar of Companies Sri Lanka
+SOURCE URL: https://www.drc.gov.lk/
+
+BUSINESS REGISTRATION BASICS FOR SMALL FOOD BUSINESSES IN SRI LANKA
+
+1. A home-based food business can operate as:
+- Sole proprietorship
+- Partnership
+- Private limited company
+
+2. Sole proprietorship is usually the simplest starting point for a single owner.
+
+3. Private limited company is useful when:
+- there are multiple owners
+- liability protection is needed
+- the business wants to scale formally
+
+4. Key registration-related authorities:
+- Department of Registrar of Companies
+- Local authority / municipal council / pradeshiya sabha
+- Inland Revenue Department
+
+5. Important follow-up registrations may include:
+- Taxpayer Identification Number
+- trade license depending on local authority requirements
+- EPF/ETF if employees are hired
