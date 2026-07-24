@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+data/processed/
+*.sqlite3
+*.db
+*.log
+.vscode/
+.idea/
+.DS_Store
