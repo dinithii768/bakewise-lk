@@ -1,5 +1,6 @@
 streamlit==1.39.0
 groq==0.11.0
+httpx==0.27.2
 chromadb==0.5.15
 sentence-transformers==3.1.1
 pypdf==4.3.1
@@ -8,4 +9,6 @@ pandas==2.2.3
 numpy==1.26.4
 pytest==8.3.3
 requests==2.32.3
-torch==2.2.2 --index-url https://download.pytorch.org/whl/cpu
+langchain==0.2.16
+langchain-community==0.2.16
+torch==2.2.2
