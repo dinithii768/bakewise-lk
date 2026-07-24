@@ -1,0 +1,50 @@
+TITLE: Basic Costing Worksheet for Home Food Businesses
+SOURCE: General SME Financial Advisory
+
+OVERVIEW
+Understanding your real costs is essential for running a profitable
+home food business. Many home sellers lose money because they do not
+account for all expenses properly.
+
+FULL COST BREAKDOWN
+
+DIRECT COSTS (change with every batch)
+- Raw ingredients (flour, sugar, eggs, butter, flavoring)
+- Packaging materials (boxes, bags, labels, ribbon)
+- Delivery costs if you deliver personally (fuel, vehicle wear)
+
+INDIRECT COSTS (fixed monthly regardless of orders)
+- Electricity estimate for baking and refrigeration
+- Water usage
+- Internet and phone for taking orders
+- Kitchen equipment replacement and maintenance
+- Insurance if applicable
+
+YOUR OWN LABOR
+- Time spent planning and ordering ingredients
+- Time spent baking and decorating
+- Time spent packaging and labeling
+- Time spent communicating with customers and managing orders
+- Time spent on delivery
+
+EXAMPLE MONTHLY COST SUMMARY
+Monthly indirect costs: LKR 5,000
+Your target labor income per month: LKR 30,000
+Batches produced per month: 20 batches
+
+Fixed cost to cover per batch = (5000 + 30000) divided by 20 = LKR 1,750
+
+If one batch produces 12 units:
+Fixed cost per unit = 1,750 divided by 12 = LKR 146
+
+Add direct cost per unit (ingredients and packaging): LKR 150
+Total cost per unit = LKR 296
+
+Add profit margin of 35 percent: LKR 296 x 1.35 = LKR 400
+
+Selling price per unit: LKR 400
+
+REVIEW YOUR COSTS REGULARLY
+- Check ingredient prices monthly as they change with market conditions
+- Adjust prices when input costs increase significantly
+- Track actual versus estimated costs for every batch

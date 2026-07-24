@@ -1,0 +1,53 @@
+TITLE: Pricing Guide for Home Bakers in Sri Lanka
+SOURCE: General Business Advisory | SME Pricing Principles
+
+OVERVIEW
+Correct pricing is critical for a sustainable home baking business.
+Many home bakers underprice their products because they forget to include
+all costs or undervalue their time.
+
+THE BASIC PRICING FORMULA
+Selling Price = Total Cost per Unit + Desired Profit Margin
+
+STEP 1: CALCULATE INGREDIENT COST
+List every ingredient used in one batch.
+Calculate cost per gram or piece based on purchase price.
+Divide total ingredient cost by the number of units produced.
+
+Example for one dozen cupcakes:
+- Flour 200g at LKR 200 per kg = LKR 40
+- Sugar 150g at LKR 180 per kg = LKR 27
+- Butter 100g at LKR 950 per 500g = LKR 190
+- Eggs 2 at LKR 35 each = LKR 70
+- Milk 100ml at LKR 120 per liter = LKR 12
+- Baking powder, vanilla, salt = LKR 15
+- Icing sugar and butter for frosting = LKR 80
+Total ingredient cost for 12 cupcakes = LKR 434
+Cost per cupcake = LKR 36
+
+STEP 2: ADD OVERHEAD COSTS
+- Electricity per batch: estimate LKR 30 to 80 depending on oven
+- Packaging (box, wrapper, label) per unit: LKR 15 to 50
+- Gas if applicable: estimate per batch
+Overhead per cupcake (example) = LKR 20
+
+STEP 3: ADD YOUR LABOR COST
+Value your time honestly.
+Example: if you take 2 hours to bake and decorate 12 cupcakes,
+and you value your time at LKR 500 per hour:
+Labor for 12 cupcakes = LKR 1000
+Labor per cupcake = LKR 83
+
+STEP 4: CALCULATE TOTAL COST
+Total cost per cupcake = ingredient + overhead + labor
+= LKR 36 + LKR 20 + LKR 83 = LKR 139
+
+STEP 5: ADD PROFIT MARGIN
+Recommended markup for home bakers: 30 to 60 percent
+At 40 percent markup: Selling price = LKR 139 x 1.40 = LKR 195
+
+ADDITIONAL CONSIDERATIONS
+- If selling through a platform or agent who takes a commission, add that cost
+- For custom orders, charge extra for design complexity
+- Review prices regularly as ingredient costs change
+- Do not compete only on price - focus on quality and unique offerings

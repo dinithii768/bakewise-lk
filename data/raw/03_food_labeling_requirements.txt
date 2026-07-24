@@ -1,0 +1,61 @@
+TITLE: Food Labeling Requirements for Sri Lankan Food Products
+SOURCE: Sri Lanka Standards Institution | Consumer Affairs Authority
+
+OVERVIEW
+Food labels protect consumers and build trust in your brand.
+In Sri Lanka, labeling requirements are governed by the Food Act and
+Sri Lanka Standards Institution regulations.
+
+MANDATORY LABEL INFORMATION
+
+1. Product Name
+   - Clear and accurate name of the food product
+   - Should not be misleading
+
+2. Ingredient List
+   - List all ingredients in descending order of weight
+   - Include water if used as an ingredient
+   - Use common names for ingredients
+
+3. Allergen Declaration
+   - Clearly highlight the following allergens if present:
+     * Gluten-containing grains (wheat, barley, rye)
+     * Milk and dairy products
+     * Eggs
+     * Nuts including peanuts
+     * Soy
+     * Fish and shellfish
+     * Sesame seeds
+   - Allergens should be emphasized using bold or highlighted text
+
+4. Net Weight or Volume
+   - State the net quantity of the product
+   - Use grams or kilograms for solid foods
+   - Use milliliters or liters for liquids
+
+5. Manufacturer Details
+   - Name and address of the manufacturer or packer
+   - For home businesses: your name and address or business name
+
+6. Date Marking
+   - Best Before date for products that degrade slowly
+   - Use By date for perishable products that could become unsafe after that date
+   - Format recommended: DD/MM/YYYY
+
+7. Storage Instructions
+   - State how the product should be stored
+   - Example: Store in a cool dry place, Refrigerate after opening
+
+8. Batch or Lot Number
+   - Useful for traceability in case of a recall
+
+RECOMMENDED ADDITIONAL INFORMATION
+- Nutritional information panel (not always mandatory for small producers but builds trust)
+- Serving suggestion
+- QR code linking to more product information
+
+PRACTICAL TIPS FOR HOME BAKERS
+- Design professional looking labels even for home-baked items
+- Print clearly readable text on labels
+- Use food-safe label materials
+- Check labels before each batch to ensure dates are correct
